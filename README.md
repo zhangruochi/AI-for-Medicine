@@ -16,7 +16,7 @@ Medicine is one of the fastest-growing and important application areas, with uni
 
 ## Course1: AI for Medical Diagnosis
 
-[Coursera1 Certificate](./Coursera1Certificate.png)
+[Coursera1 Certificate](./AIforMedicalDiagnosis/Coursera1Certificate.png)
 
 ### Week1
 - [Lecture Material](./AIforMedicalDiagnosis/week1)

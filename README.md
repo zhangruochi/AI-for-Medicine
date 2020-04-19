@@ -16,7 +16,7 @@ Medicine is one of the fastest-growing and important application areas, with uni
 
 ## Course1: AI for Medical Diagnosis
 
-![Coursera1 Certificate](./AIforMedicalDiagnosis/Coursera1Certificate.png)
+![Coursera1 Certificate](./AIforMedicalDiagnosis/Coursera1_Certificate.png)
 
 ### Week1
 - [Lecture Material](./AIforMedicalDiagnosis/week1)
@@ -34,6 +34,8 @@ Medicine is one of the fastest-growing and important application areas, with uni
 
 ## Course2: AI for Medical Prognosis
 
+![Coursera1 Certificate](./AIforMedicalPrognosis/Coursera2_Certificate.png)
+
 ### Week1
 - [Lecture Material](./AIforMedicalPrognosis/week1)
 - [Assignment1](./AIforMedicalPrognosis/week1/C2M1_Assignment.ipynb)
@@ -48,4 +50,8 @@ Medicine is one of the fastest-growing and important application areas, with uni
 - [Assignment3](./AIforMedicalPrognosis/week3/C2M3_Assignment.ipynb)
 
 ### Week4
+
+- [Lecture Material](./AIforMedicalPrognosis/week4)
+- [Assignment4](./AIforMedicalPrognosis/week4/C2M4_Assignment.ipynb)
+
 

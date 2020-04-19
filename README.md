@@ -30,3 +30,22 @@ Medicine is one of the fastest-growing and important application areas, with uni
 
 - [Lecture Material](./AIforMedicalDiagnosis/week3)
 - [Assignment3](./AIforMedicalDiagnosis/week3/C1M3_Assignment.ipynb)
+
+
+## Course2: AI for Medical Prognosis
+
+### Week1
+- [Lecture Material](./AIforMedicalPrognosis/week1)
+- [Assignment1](./AIforMedicalPrognosis/week1/C2M1_Assignment.ipynb)
+
+### Week2
+
+- [Assignment2](./AIforMedicalPrognosis/week2/C2M2_Assignment.ipynb)
+
+### Week3
+
+- [Lecture Material](./AIforMedicalPrognosis/week3)
+- [Assignment3](./AIforMedicalPrognosis/week3/C2M3_Assignment.ipynb)
+
+### Week4
+

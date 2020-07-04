@@ -1,5 +1,8 @@
 # AI-for-Medicine
 
+![Coursera1 Certificate](./Coursera1_Certificate.png)
+
+
 This is the assignments from coursera course [AI for Medicine](https://www.coursera.org/specializations/ai-for-medicine) from deeplearning.ai
 
 ## About this Specialization
@@ -55,3 +58,22 @@ Medicine is one of the fastest-growing and important application areas, with uni
 - [Assignment4](./AIforMedicalPrognosis/week4/C2M4_Assignment.ipynb)
 
 
+## Course3: AI for Medical Treatment
+
+![Coursera1 Certificate](./AIforMedicalTreatment/Coursera3_Certificate.png)
+
+### Week1
+
+- [Lecture Material](./AIforMedicalTreatment/week1)
+- [Assignment1](./AIforMedicalTreatment/week1/C3M1_Assignment.ipynb)
+
+### Week2
+
+- [Lecture Material](./AIforMedicalTreatment/week2)
+- [Assignment1](./AIforMedicalTreatment/week2/C3M2_Assignment.ipynb)
+
+
+### Week3
+
+- [Lecture Material](./AIforMedicalTreatment/week3)
+- [Assignment1](./AIforMedicalTreatment/week3/C3M3_Assignment)
